@@ -59,7 +59,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 #### AlumneFila2 PC2:
 
 
-#### AlumneFila2 PC3:
+#### AlumneFila2 PC3: hE AÑADIDO UNA FELICITACIÓN DEL 2025 EN EL ARCHIVO JAVA
 
 
 #### AlumneFila2 PC4:
