@@ -32,6 +32,9 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 ## A PARTIR D'ACÍ HAS DE DESCRIURE, ON ET CORRESPON, ELS CANVIS QUE HAS FET:
+
+He modificado la fila 2 el pc 5 que me corresponde a mi, Oscar Calatayud Gomis
+
 ## --> POSA EL TEU NOM I EN LA SEGÜENT LÍNIA LA DESCRIPCIÓ DE LA TASCA
 
 
