@@ -68,7 +68,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 #### AlumneFila2 PC5:
 
 
-#### AlumneFila2 PC6:
+#### AlumneFila2 PC6:Marcos Perez
 
 
 
