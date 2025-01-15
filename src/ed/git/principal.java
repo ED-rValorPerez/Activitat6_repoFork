@@ -6,6 +6,7 @@ public class principal {
 		////
 		// ATENCIÓ: el main() no l'has de modificar !!!!!!!!!!!
 		///
+	
 		public static void main(String[] args) {
 			
 			missatgeProfessor();
@@ -140,7 +141,7 @@ public class principal {
 		}
 
 		private static void AlumneFila2PC6() {
-
+		    System.out.println("Hola, sóc Marcos Pérez! 202-5");
 		}
 
 		// FILA 3
