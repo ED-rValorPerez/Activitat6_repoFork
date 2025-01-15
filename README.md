@@ -56,7 +56,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 #### AlumneFila2 PC1:
 
 
-#### AlumneFila2 PC2:
+#### AlumneFila2 PC2: Alejandro Rico Sánchez
 
 
 #### AlumneFila2 PC3:
