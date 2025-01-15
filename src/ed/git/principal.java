@@ -124,7 +124,7 @@ public class principal {
 		}
 
 		private static void AlumneFila2PC2() {
-
+			System.out.println("Hola, soy Alejandro y quiero dejar de estar enfermo");
 		}
 
 		private static void AlumneFila2PC3() {
