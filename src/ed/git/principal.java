@@ -165,7 +165,7 @@ public class principal {
 		}
 
 		private static void AlumneFila3PC6() {
-
+			System.out.println("Albert Danga Vicol, feliz año nuevo y por un 2025 con salud");
 		}
 
 		// FILA 4
