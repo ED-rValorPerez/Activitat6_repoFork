@@ -45,7 +45,8 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila1 PC4:
-
+* He modificado el código como pide la práctica y lo he subido al repositorio.
+* git push --set-upstream origin Javier_Llorens
 
 #### AlumneFila1 PC5:
 
