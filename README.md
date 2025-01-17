@@ -57,7 +57,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila2 PC2:
-
+Añadido nombre Pedro Escobar Carrillo
 
 #### AlumneFila2 PC3:
 
