@@ -38,7 +38,8 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 #### AlumneFila1 PC1: 
 
 
-#### AlumneFila1 PC2:
+#### AlumneFila1 PC2:Joan Brotons
+El que he fet a sigut fer tots els pasos i felicitar el any nou
 
 
 #### AlumneFila1 PC3:
