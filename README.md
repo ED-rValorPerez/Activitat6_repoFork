@@ -101,6 +101,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila4 PC4:
+Joan Aracil
 
 
 #### AlumneFila4 PC5:
