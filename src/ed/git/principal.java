@@ -95,6 +95,11 @@ public class principal {
 
 		// FILA 1
 		private static void AlumneFila1PC1() {
+            System.out.println("====================================");
+			System.out.println("Hola, sóc Martí");
+			System.out.println("Feliç any nou a tots");
+			System.out.println("====================================");
+			System.out.println();
 
 		}
 

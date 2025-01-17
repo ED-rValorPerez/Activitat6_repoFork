@@ -35,7 +35,8 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 ## --> POSA EL TEU NOM I EN LA SEGÜENT LÍNIA LA DESCRIPCIÓ DE LA TASCA
 
 
-#### AlumneFila1 PC1: 
+#### AlumneFila1 PC1: Martí
+"He felicitat el any nou a tots els companys"
 
 
 #### AlumneFila1 PC2:
