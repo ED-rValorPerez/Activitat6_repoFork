@@ -99,7 +99,12 @@ public class principal {
 		}
 
 		private static void AlumneFila1PC2() {
-
+             System.out.println("====================================");
+			System.out.println("Hola, sóc Joan Brotons el pc 2 de la sala 224");
+			System.out.println(" Feliç any nou a tots");
+			System.out.println("====================================");
+			System.out.println();
+    
 		}
 
 		private static void AlumneFila1PC3() {
