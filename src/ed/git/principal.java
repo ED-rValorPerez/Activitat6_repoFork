@@ -11,70 +11,8 @@ public class principal {
 			missatgeProfessor();
 
 			// Fila1
-			AlumneFila1PC1();
-
-			AlumneFila1PC2();
-
 			AlumneFila1PC3();
 
-			AlumneFila1PC4();
-
-			AlumneFila1PC5();
-
-			AlumneFila1PC6();
-
-			// Fila2
-			AlumneFila2PC1();
-
-			AlumneFila2PC2();
-
-			AlumneFila2PC3();
-
-			AlumneFila2PC4();
-
-			AlumneFila2PC5();
-
-			AlumneFila2PC6();
-
-			// Fila3
-			AlumneFila3PC1();
-
-			AlumneFila3PC2();
-
-			AlumneFila3PC3();
-
-			AlumneFila3PC4();
-
-			AlumneFila3PC5();
-
-			AlumneFila3PC6();
-			
-
-			// Fila4
-			AlumneFila4PC1();
-
-			AlumneFila4PC2();
-
-			AlumneFila4PC3();
-
-			AlumneFila4PC4();
-
-			AlumneFila4PC5();
-
-			AlumneFila4PC6();
-			
-			// Fila5
-			AlumneFila5PC1();
-
-			AlumneFila5PC2();
-
-			AlumneFila5PC3();
-
-			AlumneFila5PC4();
-
-			AlumneFila5PC5();
-
-			AlumneFila5PC6();
 
 		}
 
@@ -99,11 +37,11 @@ public class principal {
 		}
 
 		private static void AlumneFila1PC2() {
-
+			
 		}
 
 		private static void AlumneFila1PC3() {
-
+			System.out.println("Hola, sóc Rubén Balaguer. Bon Any Nou! Que el 2025 estiga ple d'èxits i alegries!");
 		}
 
 		private static void AlumneFila1PC4() {
