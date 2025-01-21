@@ -94,7 +94,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 #### AlumneFila4 PC1:
 
 
-#### AlumneFila4 PC2:
+#### AlumneFila4 PC2: Cambios realizados
 
 
 #### AlumneFila4 PC3:
